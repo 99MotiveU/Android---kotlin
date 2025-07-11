@@ -1,6 +1,6 @@
 # 깡샘의 안드로이드 앱 프로그래밍 with 코틀린 (Do It!) - 학습 기록
 
-이 저장소는 **[Do it! 깡샘의 안드로이드 앱 프로그래밍 with 코틀린]** 책을 학습하며 작성한 모든 실습 코드와 매주 진행한 미니 프로젝트들을 기록하고 관리하는 공간입니다.
+이 저장소는 **[Do it! 깡샘의 안드로이드 앱 프로그래밍 with 코틀린]** 책을 학습하며 작성한 모든 실습 코드와 매주 한 장(chapter)를 공부한 후 진행한 미니 프로젝트들을 기록하고 관리하는 공간입니다.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/ConstraintLayout-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/RecyclerView-4CAF50?style=flat-square" />
   <img src="https://img.shields.io/badge/Fragment-8E44AD?style=flat-square" />
-  <img src="https.img.shields.io/badge/Activity_Lifecycle-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Intent-E91E63?style=flat-square" />
   <img src="https://img.shields.io/badge/Coroutine-F44336?style=flat-square" />
   <img src="https://img.shields.io/badge/Retrofit2-FF5722?style=flat-square" />
